@@ -1,2 +1,2 @@
-# Intera-o-com-n-meros
+# Interação-com-n-meros
 Loteria interação
